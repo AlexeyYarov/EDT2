@@ -41,7 +41,9 @@
   </languages>
   <catalogs>Catalog.Кнтрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Производители</catalogs>
   <catalogs>Catalog.Склады</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
   <documents>Document.ПоступлениеТовара</documents>
   <documents>Document.ПродажиТоваров</documents>
   <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
